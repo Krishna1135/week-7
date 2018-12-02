@@ -12,18 +12,10 @@ Time Spent: 7 hours spent in total
     - Tested in version: 4.2
     - Fixed in version:4.2.15 
      
-  - [ ] GIF Walkthrough:  
-<a href="https://imgur.com/bbqmO2N"><img src="https://i.imgur.com/bbqmO2N.gif" title="source: imgur.com" /></a>
-
-  - [ ] Steps to recreate: I wrote a comment on a page that has 64kb of content. 
-  I wrote 64,000 As in a comment box and posted it. 
-  
+  - [ ] GIF Walkthrough:  <a href="https://imgur.com/bbqmO2N"><img src="https://i.imgur.com/bbqmO2N.gif" title="source: imgur.com" /></a>
+  - [ ] Steps to recreate: I wrote a comment on a page that has 64kb of content.  I wrote 64,000 As in a comment box and posted it. 
+ 
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
-  
-  
-  
-  
-  
   
   2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
