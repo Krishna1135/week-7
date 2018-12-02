@@ -12,7 +12,8 @@ Time Spent: 7 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough:  
-![](https://imgur.com/bbqmO2N)
+<a href="https://imgur.com/bbqmO2N"><img src="https://i.imgur.com/bbqmO2N.gif" title="source: imgur.com" /></a>
+![][img]https://i.imgur.com/bbqmO2N.gif[/img]
 
   [img]https://i.imgur.com/bbqmO2N.gif[/img]
   
