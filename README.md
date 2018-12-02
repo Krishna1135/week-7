@@ -21,21 +21,31 @@ Time Spent: 7 hours spent in total
   - [ ] Summary: 
     - Vulnerability types: User Enumeration Exploit
     - Tested in version: 4.2
-    - Fixed in version:
+    - Fixed in version:4.7
      
   - [ ] GIF Walkthrough:  
   <a href="https://imgur.com/w8GCqm9"><img src="https://i.imgur.com/w8GCqm9.gif" title="source: imgur.com" /></a>
 
-  - [ ] Steps to recreate:  
-  - [ ] Affected source code: 
+  - [ ] Steps to recreate:  1. I tried to login the wp distillery using different usernames like Kirshna and admin1
+  2. Then I tried admin as the username. It worked because it was the correct one.
+ 
+ 
+  2. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types: 
+    - Tested in version: 
+    - Fixed in version:
+     
+  - [ ] GIF Walkthrough:   <a href="https://imgur.com/RRTkK6V"><img src="https://i.imgur.com/RRTkK6V.gif" title="source: imgur.com" /></a>
+  
+  - [ ] Steps to recreate:
+  - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
+  
+  
     
     
-    
-    
-    
-    <a href="https://imgur.com/RRTkK6V"><img src="https://i.imgur.com/RRTkK6V.gif" title="source: imgur.com" /></a>
-    
-    
+   
+  
     
     <a href="https://imgur.com/3q2eYPm"><img src="https://i.imgur.com/3q2eYPm.gif" title="source: imgur.com" /></a>
     
