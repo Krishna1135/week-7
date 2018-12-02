@@ -11,7 +11,10 @@ Time Spent: 7 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version:4.2.15 
-     kkkk
+    
+    
+    krihsna 
+     
   - [ ] GIF Walkthrough:  
 <a href="https://imgur.com/bbqmO2N"><img src="https://i.imgur.com/bbqmO2N.gif" title="source: imgur.com" /></a>
 
