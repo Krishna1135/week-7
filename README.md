@@ -18,7 +18,9 @@ Time Spent: 7 hours spent in total
   - [ ] Steps to recreate: I wrote a comment on a page that has 64kb of content. I wrote 64,000 As in a comment box and posted it. 
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1]
+    
+    <a href="https://imgur.com/RRTkK6V"><img src="https://i.imgur.com/RRTkK6V.gif" title="source: imgur.com" /></a>
     
     
     
