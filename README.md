@@ -5,7 +5,6 @@ Time Spent: 7 hours spent in total
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
 ## Pentesting Report
-
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types: XSS
@@ -17,7 +16,7 @@ Time Spent: 7 hours spent in total
  
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
-  2. (Required) Vulnerability Name or ID
+ 2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types: User Enumeration Exploit
     - Tested in version: 4.2
@@ -29,7 +28,7 @@ Time Spent: 7 hours spent in total
   - [ ] Steps to recreate:  I tried to login the wp distillery using different usernames like Kirshna and admin1. Then I tried admin as the username. It worked because it was the correct one.
  
  
-  3. (Required) Vulnerability Name or ID
+ 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -41,23 +40,24 @@ Time Spent: 7 hours spent in total
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
   
-    4. (Required) Vulnerability Name or ID
+  4. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
-    - Fixed in version:4.1.5
-     
+    - Fixed in version:4.1.5  
   - [ ] GIF Walkthrough:  <a href="https://imgur.com/Fiwtvn5"><img src="https://i.imgur.com/Fiwtvn5.gif" title="source: imgur.com" /></a>
-   
   - [ ] Steps to recreate:
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
     
     
     
     
-  
-    
-    <a href="https://imgur.com/3q2eYPm"><img src="https://i.imgur.com/3q2eYPm.gif" title="source: imgur.com" /></a>
+  5. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version:4.1.5  
+  - [ ] GIF Walkthrough: <a href="https://imgur.com/3q2eYPm"><img src="https://i.imgur.com/3q2eYPm.gif" title="source: imgur.com" /></a>
     
     
     
