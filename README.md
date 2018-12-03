@@ -41,9 +41,20 @@ Time Spent: 7 hours spent in total
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
   
-    
-    
+    4. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version:4.1.5
+     
+  - [ ] GIF Walkthrough:  <a href="https://imgur.com/Fiwtvn5"><img src="https://i.imgur.com/Fiwtvn5.gif" title="source: imgur.com" /></a>
    
+  - [ ] Steps to recreate:
+  - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
+    
+    
+    
+    
   
     
     <a href="https://imgur.com/3q2eYPm"><img src="https://i.imgur.com/3q2eYPm.gif" title="source: imgur.com" /></a>
