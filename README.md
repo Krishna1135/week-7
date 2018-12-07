@@ -1,6 +1,6 @@
 # week-7
 
-Time Spent: 7 hours spent in total
+Time Spent:  9 hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -16,6 +16,7 @@ Time Spent: 7 hours spent in total
  
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
+  
  2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types: User Enumeration Exploit
@@ -25,7 +26,10 @@ Time Spent: 7 hours spent in total
   - [ ] GIF Walkthrough:  
   <a href="https://imgur.com/w8GCqm9"><img src="https://i.imgur.com/w8GCqm9.gif" title="source: imgur.com" /></a>
 
-  - [ ] Steps to recreate:  I tried to login the wp distillery using different usernames like Kirshna and admin1. Then I tried admin as the username. It worked because it was the correct one.
+  - [ ] Steps to recreate:
+  1. I tried to login the wp distillery using different usernames like Kirshna and admin1. 
+  2. Then I tried admin as the username. It worked because it was the correct one.
+ 
  
  
  3. (Required) Vulnerability Name or ID
@@ -36,7 +40,8 @@ Time Spent: 7 hours spent in total
      
   - [ ] GIF Walkthrough:   <a href="https://imgur.com/RRTkK6V"><img src="https://i.imgur.com/RRTkK6V.gif" title="source: imgur.com" /></a>
   
-  - [ ] Steps to recreate:
+  - [ ] Steps to recreate: 
+  1. 
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
   
