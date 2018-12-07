@@ -56,13 +56,19 @@ Time Spent:  9 hours spent in total
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
-    - Fixed in version:4.1.5  
+    - Fixed in version:4.1.15  
   - [ ] GIF Walkthrough:  <a href="https://imgur.com/Fiwtvn5"><img src="https://i.imgur.com/Fiwtvn5.gif" title="source: imgur.com" /></a>
   - [ ] Steps to recreate:
-  - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
-    
-    
-    
+  
+  i) Go to the WP Distillery main page 
+  
+  ii) Post a comment:
+  <script>“alert (XSS in a comment”)</script>
+  
+  iii) Once the above script is posted in the comment section, you can see the small notification in the top part of the screen saying that XSS vulnerability found in the comment.
+  
+  
+  
     
   5. (Required) Vulnerability Name or ID
   - [ ] Summary: 
@@ -72,6 +78,15 @@ Time Spent:  9 hours spent in total
   - [ ] GIF Walkthrough: <a href="https://imgur.com/3q2eYPm"><img src="https://i.imgur.com/3q2eYPm.gif" title="source: imgur.com" /></a>
     
     
+     - [ ] Steps to recreate:
+  
+  i) Go to the main page of the WP Distillery.
+  
+  ii) find the post section and post the following script
+  
+  <script>alert ("XSS in a comment”)</script>
+  
+  iii) Once the above script is posted , you can see the small notification in the top part of the screen saying that XSS vulnerability.
     
     
     
