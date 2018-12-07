@@ -12,7 +12,10 @@ Time Spent:  9 hours spent in total
     - Fixed in version:4.2.15 
      
   - [ ] GIF Walkthrough:  <a href="https://imgur.com/bbqmO2N"><img src="https://i.imgur.com/bbqmO2N.gif" title="source: imgur.com" /></a>
-  - [ ] Steps to recreate: I wrote a comment on a page that has 64kb of content.  I wrote 64,000 As in a comment box and posted it. 
+  - [ ] Steps to recreate: 
+  i)  Go the the dashboard and open a comment section 
+  ii) I wrote a comment on a page that has 64kb of content.  
+  iii) I wrote 64,000 As in a comment box and posted it. 
  
   - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
   
@@ -27,8 +30,8 @@ Time Spent:  9 hours spent in total
   <a href="https://imgur.com/w8GCqm9"><img src="https://i.imgur.com/w8GCqm9.gif" title="source: imgur.com" /></a>
 
   - [ ] Steps to recreate:
-  1. I tried to login the wp distillery using different usernames like Kirshna and admin1. 
-  2. Then I tried admin as the username. It worked because it was the correct one.
+  i) I tried to login the wp distillery using different usernames like Kirshna and admin1. 
+  ii)  Then I tried admin as the username. It worked because it was the correct one.
  
  
  
@@ -41,8 +44,12 @@ Time Spent:  9 hours spent in total
   - [ ] GIF Walkthrough:   <a href="https://imgur.com/RRTkK6V"><img src="https://i.imgur.com/RRTkK6V.gif" title="source: imgur.com" /></a>
   
   - [ ] Steps to recreate: 
-  1. 
-  - [ ] Affected source code: I dont think there was an effected source code but this says about a vulnerability.
+  i)  In the main page, I went to the comment section.
+  ii)  Under leave a reply part I posted a comment
+  iii) The comment is: <script>while(1)/{alert(document.cookie);}<script>
+  iv) Once this is commented it shows that this is a vulnerability on the top of the screen.
+  
+  - [ ] Affected source code: there is not an affected cource code however this says about a vulnerability.
   
   
   4. (Required) Vulnerability Name or ID
